@@ -1,6 +1,6 @@
 {
   "name": "generator-php-pacakage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yeoman genterator generating a PHP composer package",
   "homepage": "https://github.com/soleo/generator-php-pacakage#readme",
   "author": "Xinjiang Shao <shaoxinjiang@gmail.com> (http://xinjiangshao.com)",
