@@ -2,12 +2,8 @@
   "name": "generator-php-pacakage",
   "version": "0.0.1",
   "description": "Yeoman genterator generating a PHP composer package",
-  "homepage": "",
-  "author": {
-    "name": "Xinjiang Shao",
-    "email": "shaoxinjiang@gmail.com",
-    "url": "http://xinjiangshao.com"
-  },
+  "homepage": "https://github.com/soleo/generator-php-pacakage#readme",
+  "author": "Xinjiang Shao <shaoxinjiang@gmail.com> (http://xinjiangshao.com)",
   "files": [
     "generators"
   ],
@@ -44,10 +40,19 @@
       "mocha": true
     }
   },
-  "repository": "soleo/generator-php-pacakage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soleo/generator-php-pacakage.git"
+  },
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soleo/generator-php-pacakage/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
 }
