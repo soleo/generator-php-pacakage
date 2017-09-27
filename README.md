@@ -1,4 +1,6 @@
 # generator-php-pacakage [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soleo/generator-php-pacakage.svg)](https://greenkeeper.io/)
 > Yeoman genterator generating a PHP composer package
 
 The PHP Project templates is a fork of https://github.com/thephpleague/skeleton
